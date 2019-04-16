@@ -1,0 +1,4 @@
+## .gitignore file for meshoptimizer-scaffold
+
+## ignore folder fetched through gclient
+meshoptimizer
